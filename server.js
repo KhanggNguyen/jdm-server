@@ -181,7 +181,7 @@ app.get("/search", async (req, res) => {
   }
 });
 
-let port = process.env.PORT || 8000;
+let port = process.env.PORT || 3000;
 //let host = process.env.HOST;
 
 /*
